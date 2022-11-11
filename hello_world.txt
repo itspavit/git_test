@@ -1,1 +1,2 @@
 Hi i am learning daily from the odin project
+It is awesome
